@@ -1,4 +1,4 @@
-![WOWEN Tech Logo](https://github.com/WOWEN-DEV/wowen.tech/blob/main/assets/img/wowen-tech-repo-logo.svg)
+![WOWEN Logo](https://github.com/WOWEN-DEV/wowen/blob/main/wowen-tech-repo-logo.svg)
 
 <br>
 
@@ -59,8 +59,8 @@ Thank you for being a part of the FemTech Dev Community and contributing to WOWE
 <br>
 
 <p align="center">
-  <img src="https://github.com/WOWEN-DEV/wowen.tech/blob/main/assets/img/wowen-tech-repo-logo.svg" alt="WOWEN Logo" width="30%">
+  <img src="https://github.com/WOWEN-DEV/wowen/blob/main/wowen-repo-logo.svg" alt="WOWEN Logo" width="30%">
 </p>
 
-<p align="center">Thank you for your interest in WOWEN. Together, we're making FemTech innovative, creative, and powering 🕷️🕸️</p>
+<p align="center">Weaving the Web 🕷️🕸️</p>
 <p align="center">Copyright © 2019-2024, WOWEN. All rights reserved.</p>

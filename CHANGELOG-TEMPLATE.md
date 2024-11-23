@@ -5,12 +5,15 @@ All notable changes to this project will be documented in this file.
 <br>
 
 # Unreleased
+Planned for next release.
+
+<br>
 
 ---
 
 <br>
 
-## v1.1.0-alpha – 2023-10-29
+## Version – Date
 
 ### Added
 - For new features.
@@ -30,3 +33,8 @@ All notable changes to this project will be documented in this file.
 ### Security
 - In case of vulnerabilities.
 
+<br>
+
+---
+
+<br>

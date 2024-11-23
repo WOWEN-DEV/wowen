@@ -6,6 +6,8 @@
 
 🕷️🕸️ Welcome to WOWEN, where we believe in the power of community collaboration! We truly appreciate your interest in contributing to our projects.
 
+<br>
+
 ## How to Contribute
 
 If you're passionate about FemTech and want to contribute with WOWEN, please follow these simple steps:
@@ -41,6 +43,8 @@ If you're passionate about FemTech and want to contribute with WOWEN, please fol
 9. **Review and Collaborate:** Our team will review your PR and provide feedback. Be ready to collaborate and iterate on your changes.
 
 10. **Merge and Celebrate:** Once your PR is approved, it will be merged into the main branch. Congratulations on your contribution!
+
+<br>
 
 ## Questions and Support
 

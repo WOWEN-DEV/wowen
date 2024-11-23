@@ -1,4 +1,4 @@
-![WOWEN Logo](https://github.com/WOWEN-DEV/wowen/blob/main/wowen-tech-repo-logo.svg)
+![WOWEN Logo](https://github.com/WOWEN-DEV/wowen/blob/main/wowen-repo-logo.svg)
 
 <br>
 

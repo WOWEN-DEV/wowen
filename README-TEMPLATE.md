@@ -54,6 +54,14 @@ Example:
 # About WOWEN
 WOWEN is not just a company; we are a creative powerhouse with expertise in full-stack development, FemTech, publishing, UX, design, and marketing. We have a unique ability to transform high-level strategy into practical implementation at the intersection of business development, communication, and technology.
 
+## What we do
+- Full-stack development.
+- Design/UX/UI.
+- Marketing.
+- Project/product management.
+- Strategy.
+- Entrepreneurship.
+
 <br>
 
 # About Project

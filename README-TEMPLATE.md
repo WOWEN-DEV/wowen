@@ -66,8 +66,21 @@ Write about the project and include features if approachable.
 
 <br>
 
-# Repo Content
-Put the rest of the repo content and section here (if needed). Here you are free to add and adjust the repo contents as you see fit for the project!
+# Repo Content Headline
+Put the rest of the repo content and sections here (if needed). Here you are free to add and adjust the repo contents as you see fit for the project!
+
+## Subheadline 1
+### Subheadline 2
+#### Subheadline 3
+- 1
+- 2
+- 3
+
+`Settings, folder structure etc.`
+
+```
+Code block
+```
 
 <br>
 

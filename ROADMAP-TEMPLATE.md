@@ -1,8 +1,12 @@
+![WOWEN Logo](https://github.com/WOWEN-DEV/wowen/blob/main/wowen-repo-logo.svg)
+
+<br>
+
 # 🚀 Project Roadmap
 
 Welcome to the **[Project Name]** Roadmap! This document outlines our goals, upcoming features, and milestones to give contributors and users a clear view of the project's direction.
 
----
+<br>
 
 ## 🏁 Vision
 
@@ -10,7 +14,7 @@ Welcome to the **[Project Name]** Roadmap! This document outlines our goals, upc
 
 Our ultimate goal is to [state the end goal or long-term vision].
 
----
+<br>
 
 ## 📅 Milestones
 
@@ -21,8 +25,7 @@ We organize our progress into milestones. Each milestone represents a set of goa
 | v1.0 - MVP Launch    | [YYYY-MM-DD]     | 🟡 In Progress | Initial release with core functionality.                                                                                                                           |
 | v1.1 - Feature X     | [YYYY-MM-DD]     | 🔴 Not Started | Add [specific feature] to enhance user experience.                                                                                                                 |
 | v2.0 - Stable Release| [YYYY-MM-DD]     | 🟢 Completed    | Include full documentation, optimized performance, and additional integrations.                                                                                     |
-
----
+<br>
 
 ## 🛠️ Planned Features
 
@@ -32,7 +35,7 @@ Here are the upcoming features and improvements we plan to implement:
 - [ ] **Feature B:** [Brief description of the feature and its purpose.]
 - [ ] **Feature C:** [Brief description of the feature and its purpose.]
 
----
+<br>
 
 ## 🎯 Goals by Quarter
 
@@ -52,7 +55,7 @@ Here are the upcoming features and improvements we plan to implement:
 - [Goal 1: Description]
 - [Goal 2: Description]
 
----
+<br>
 
 ## 📊 Current Progress
 
@@ -62,7 +65,7 @@ Here are the upcoming features and improvements we plan to implement:
 | Task 2: [Brief Description]| [Owner's Name] | Medium       | 🟡 In Progress   | [YYYY-MM-DD]     |
 | Task 3: [Brief Description]| [Owner's Name] | Low          | 🔴 Not Started   | [YYYY-MM-DD]     |
 
----
+<br>
 
 ## 🧩 Contribution Opportunities
 
@@ -75,7 +78,7 @@ We welcome contributions to help us build [Project Name]. Here are some areas wh
 
 For more details, see our [CONTRIBUTING.md](https://github.com/WOWEN-DEV/wowen/blob/main/CONTRIBUTING.md) file.
 
----
+<br>
 
 ## 🔗 Useful Links
 
@@ -83,6 +86,17 @@ For more details, see our [CONTRIBUTING.md](https://github.com/WOWEN-DEV/wowen/b
 - **GitHub Issues:** [Link to Issues]
 - **Discussion Forum:** [Link to Community Forum or Discord]
 
+Feel free to open submit an issue if you have questions or suggestions! 🚀
+
+<br>
+
 ---
 
-Feel free to open a discussion or submit an issue if you have questions or suggestions! 🚀
+<br>
+
+<p align="center">
+  <img src="https://github.com/WOWEN-DEV/wowen/blob/main/wowen-repo-logo.svg" alt="WOWEN Logo" width="30%">
+</p>
+
+<p align="center">Weaving the Web 🕷️🕸️</p>
+<p align="center">Copyright © 2019-2024, WOWEN. All rights reserved.</p>

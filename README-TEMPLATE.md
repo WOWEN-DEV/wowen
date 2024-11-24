@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-<i>REMOVE THIS INFO SECTION IN YOUR NEW REPO README, INCLUDING TOP OR BOTTOM BR (only one br to separate sections).</i>
+<i>REMOVE THIS INFO SECTION IN YOUR NEW REPO README, INCLUDING TOP OR BOTTOM BR (there should be only one br to separate sections).</i>
 <br>
 <i>Change badges and copy depending on project.</i>
 <br>

@@ -43,6 +43,7 @@
 Always add TOC to the repo here, in this order.
 Example:
 - [About WOWEN](#about-wowen)
+  - [What we do](#what-we-do)
 - [About Project](#about-project)
   - [Features (optional depending on project)](#features)
 - [Contributing](#contributing)

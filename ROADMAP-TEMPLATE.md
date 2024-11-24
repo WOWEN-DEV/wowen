@@ -5,13 +5,11 @@
 <br>
 
 # 🚀 Project Roadmap
-
 Welcome to the **[Project Name]** Roadmap! This document outlines our goals, upcoming features, and milestones to give contributors and users a clear view of the project's direction.
 
 <br>
 
 ## 🏁 Vision
-
 **[Project Name]** aims to [briefly describe the purpose of the project, e.g., solve a problem, provide a solution, or enable specific use cases]. 
 
 Our ultimate goal is to [state the end goal or long-term vision].
@@ -19,7 +17,6 @@ Our ultimate goal is to [state the end goal or long-term vision].
 <br>
 
 ## 📅 Milestones
-
 We organize our progress into milestones. Each milestone represents a set of goals to be achieved within a given timeframe.
 
 | **Milestone**       | **Target Date**  | **Status**     | **Description**                                                                                                                                                     |
@@ -30,7 +27,6 @@ We organize our progress into milestones. Each milestone represents a set of goa
 <br>
 
 ## 🛠️ Planned Features
-
 Here are the upcoming features and improvements we plan to implement:
 
 - [ ] **Feature A:** [Brief description of the feature and its purpose.]
@@ -40,7 +36,6 @@ Here are the upcoming features and improvements we plan to implement:
 <br>
 
 ## 🎯 Goals by Quarter
-
 ### Q1 [YYYY]
 - [Goal 1: Description]
 - [Goal 2: Description]
@@ -60,7 +55,6 @@ Here are the upcoming features and improvements we plan to implement:
 <br>
 
 ## 🧩 Contribution Opportunities
-
 We welcome contributions to help us build [Project Name]. Here are some areas where contributors can get involved:
 
 - [ ] Bug fixes in [specific module or feature].
@@ -73,7 +67,6 @@ For more details, see our [CONTRIBUTING.md](https://github.com/WOWEN-DEV/wowen/b
 <br>
 
 ## 🔗 Useful Links
-
 - **Documentation:** [Link to Docs]
 - **GitHub Issues:** [Link to Issues]
 - **Discussion Forum:** [Link to Community Forum or Discord]

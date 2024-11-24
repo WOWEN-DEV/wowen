@@ -1,3 +1,5 @@
+<br>
+
 ![WOWEN Logo](https://github.com/WOWEN-DEV/wowen/blob/main/wowen-repo-logo.svg)
 
 <br>
@@ -18,33 +20,40 @@ Please follow these simple steps:
 
 2. **Clone Your Fork:** In your local development environment, clone your forked repository using the following command:
 
-   ```shell
+   ```
    git clone https://github.com/your-username/********.git
+   ```
    
 3. **Create a New Branch:** Create a new branch for your contribution. Give it a meaningful name that describes the work you're doing:
 
-   ```shell
-   git checkout -b feature/new-feature
+   ```
+   git checkout -b yourbranch
+   ```
 
 4. **Make Changes:** Make your contributions to the codebase. Feel free to be innovative and creative in your approach.
 
 5. **Commit Your Changes:** Commit your changes with a descriptive commit message:
 
-   ```shell
+   ```
+   git add .
+   ```
+   ```
    git commit -m "Add feature: description of your changes"
+   ```
 
-6. **Push to Your Fork:** Push your changes to your forked repository:
+7. **Push to Your Fork:** Push your changes to your forked repository:
 
-   ```shell
-   git push origin feature/new-feature
+   ```
+   git push origin yourbranch
+   ```
 
-7. **Open a Pull Request (PR):** Go to the original WOWEN repository and click on the "New Pull Request" button. Compare your branch with the main branch of WOWEN.
+8. **Open a Pull Request (PR):** Go to the original WOWEN repository and click on the "New Pull Request" button. Compare your branch with the main branch of WOWEN.
 
-8. **Describe Your PR:** Provide a clear and concise description of your changes in the PR. Explain what problem your PR solves or what new feature it adds.
+9. **Describe Your PR:** Provide a clear and concise description of your changes in the PR. Explain what problem your PR solves or what new feature it adds.
 
-9. **Review and Collaborate:** Our team will review your PR and provide feedback. Be ready to collaborate and iterate on your changes.
+10. **Review and Collaborate:** Our team will review your PR and provide feedback. Be ready to collaborate and iterate on your changes.
 
-10. **Merge and Celebrate:** Once your PR is approved, it will be merged into the main branch. Congratulations on your contribution!
+11. **Merge and Celebrate:** Once your PR is approved, it will be merged into the main branch. Congratulations on your contribution!
 
 <br>
 

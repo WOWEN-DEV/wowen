@@ -33,6 +33,7 @@
 
 <br>
 <br>
+
 <div align="center">
   <img src="https://github.com/WOWEN-DEV/wowen/blob/main/wowen-hands.svg" alt="WOWEN Illustration">
 </div>

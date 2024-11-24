@@ -5,13 +5,11 @@
 <br>
 
 # Contributing to WOWEN Projects
-
 🕷️🕸️ Welcome to WOWEN, where we believe in the power of community collaboration! We truly appreciate your interest in contributing to our projects.
 
 <br>
 
 ## How to Contribute
-
 Please follow these simple steps:
 
 <br>
@@ -58,7 +56,6 @@ Please follow these simple steps:
 <br>
 
 ## Questions and Support
-
 If you have questions or need support during the contribution process, feel free to open an issue in the repository.
 
 Thank you for being a part of the FemTech Dev Community and contributing to WOWEN's mission of powering women through technology and creativity! 🌟

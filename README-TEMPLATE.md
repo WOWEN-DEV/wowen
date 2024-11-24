@@ -95,13 +95,11 @@ Code block
 <br>
 
 # Contributing
-
 Adjust copy here to fit project, example: We welcome contributions from the FemTech Dev Community. If you'd like to contribute to our projects, please follow our [Contributing Guidelines](https://github.com/WOWEN-DEV/wowen/blob/main/CONTRIBUTING.md).
 
 <br>
 
 # Connect with WOWEN (optional depending on project)
-
 - **Website:** [wowen.tech](https://wowen.tech)
 - **Email:** emma@wowen.tech
 

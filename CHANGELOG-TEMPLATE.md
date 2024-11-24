@@ -38,3 +38,10 @@ Planned for next release.
 ---
 
 <br>
+
+<p align="center">
+  <img src="https://github.com/WOWEN-DEV/wowen/blob/main/wowen-repo-logo.svg" alt="WOWEN Logo" width="30%">
+</p>
+
+<p align="center">Weaving the Web 🕷️🕸️</p>
+<p align="center">Copyright © 2019-2024, WOWEN. All rights reserved.</p>

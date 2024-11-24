@@ -9,6 +9,8 @@
 
 <p align="center">
 <i>Change badges and copy depending on project.</i>
+<br>
+<i>Top logo should be the project logo, or if non-existent, use WOWEN's logo (as shown here).</i>
 </p>
 
 <br>

@@ -55,13 +55,11 @@ Here we collect useful resources for WOWEN projects, and templates for our git p
 <br>
 
 # Contributing
-
 We welcome contributions from the FemTech Dev Community and beyond. If you'd like to contribute to our projects, please follow our [Contributing Guidelines](https://github.com/WOWEN-DEV/wowen/blob/main/CONTRIBUTING.md).
 
 <br>
 
 # Connect with WOWEN
-
 - **Website:** [wowen.tech](https://wowen.tech)
 - **Email:** emma@wowen.tech
 

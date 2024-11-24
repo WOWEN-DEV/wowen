@@ -10,7 +10,9 @@
 
 ## How to Contribute
 
-If you're passionate about FemTech and want to contribute with WOWEN, please follow these simple steps:
+Please follow these simple steps:
+
+<br>
 
 1. **Fork the Repository:** Click the "Fork" button on the top right of the repository's page to create your copy.
 

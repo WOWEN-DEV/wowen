@@ -1,3 +1,5 @@
+<br>
+
 ![WOWEN Logo](https://github.com/WOWEN-DEV/wowen/blob/main/wowen-repo-logo.svg)
 
 <br>
@@ -57,16 +59,6 @@ Here are the upcoming features and improvements we plan to implement:
 
 <br>
 
-## 📊 Current Progress
-
-| **Task**                   | **Owner**      | **Priority** | **Status**       | **Last Updated** |
-|----------------------------|----------------|--------------|------------------|------------------|
-| Task 1: [Brief Description]| [Owner's Name] | High         | 🟢 Completed     | [YYYY-MM-DD]     |
-| Task 2: [Brief Description]| [Owner's Name] | Medium       | 🟡 In Progress   | [YYYY-MM-DD]     |
-| Task 3: [Brief Description]| [Owner's Name] | Low          | 🔴 Not Started   | [YYYY-MM-DD]     |
-
-<br>
-
 ## 🧩 Contribution Opportunities
 
 We welcome contributions to help us build [Project Name]. Here are some areas where contributors can get involved:
@@ -85,8 +77,6 @@ For more details, see our [CONTRIBUTING.md](https://github.com/WOWEN-DEV/wowen/b
 - **Documentation:** [Link to Docs]
 - **GitHub Issues:** [Link to Issues]
 - **Discussion Forum:** [Link to Community Forum or Discord]
-
-Feel free to open submit an issue if you have questions or suggestions! 🚀
 
 <br>
 
